@@ -1,0 +1,970 @@
+[
+    {
+        "city": "Portland",
+        "number_of_businesses": "1050"
+    },
+    {
+        "city": "Austin",
+        "number_of_businesses": "688"
+    },
+    {
+        "city": "Boston",
+        "number_of_businesses": "532"
+    },
+    {
+        "city": "Atlanta",
+        "number_of_businesses": "488"
+    },
+    {
+        "city": "Orlando",
+        "number_of_businesses": "449"
+    },
+    {
+        "city": "Columbus",
+        "number_of_businesses": "320"
+    },
+    {
+        "city": "Cambridge",
+        "number_of_businesses": "147"
+    },
+    {
+        "city": "Vancouver",
+        "number_of_businesses": "143"
+    },
+    {
+        "city": "Boulder",
+        "number_of_businesses": "112"
+    },
+    {
+        "city": "Beaverton",
+        "number_of_businesses": "82"
+    },
+    {
+        "city": "Kissimmee",
+        "number_of_businesses": "70"
+    },
+    {
+        "city": "Somerville",
+        "number_of_businesses": "60"
+    },
+    {
+        "city": "Winter Park",
+        "number_of_businesses": "58"
+    },
+    {
+        "city": "Quincy",
+        "number_of_businesses": "49"
+    },
+    {
+        "city": "Brookline",
+        "number_of_businesses": "44"
+    },
+    {
+        "city": "Decatur",
+        "number_of_businesses": "44"
+    },
+    {
+        "city": "Tigard",
+        "number_of_businesses": "41"
+    },
+    {
+        "city": "Newton",
+        "number_of_businesses": "33"
+    },
+    {
+        "city": "Sanford",
+        "number_of_businesses": "29"
+    },
+    {
+        "city": "Peabody",
+        "number_of_businesses": "29"
+    },
+    {
+        "city": "Natick",
+        "number_of_businesses": "29"
+    },
+    {
+        "city": "Medford",
+        "number_of_businesses": "28"
+    },
+    {
+        "city": "Jamaica Plain",
+        "number_of_businesses": "28"
+    },
+    {
+        "city": "Winter Garden",
+        "number_of_businesses": "28"
+    },
+    {
+        "city": "Salem",
+        "number_of_businesses": "28"
+    },
+    {
+        "city": "Lake Oswego",
+        "number_of_businesses": "27"
+    },
+    {
+        "city": "Burlington",
+        "number_of_businesses": "27"
+    },
+    {
+        "city": "Allston",
+        "number_of_businesses": "26"
+    },
+    {
+        "city": "Braintree",
+        "number_of_businesses": "25"
+    },
+    {
+        "city": "Brighton",
+        "number_of_businesses": "25"
+    },
+    {
+        "city": "Lynn",
+        "number_of_businesses": "25"
+    },
+    {
+        "city": "Dorchester",
+        "number_of_businesses": "24"
+    },
+    {
+        "city": "Milwaukie",
+        "number_of_businesses": "24"
+    },
+    {
+        "city": "Oviedo",
+        "number_of_businesses": "24"
+    },
+    {
+        "city": "Dublin",
+        "number_of_businesses": "23"
+    },
+    {
+        "city": "Malden",
+        "number_of_businesses": "23"
+    },
+    {
+        "city": "Doraville",
+        "number_of_businesses": "21"
+    },
+    {
+        "city": "Clermont",
+        "number_of_businesses": "21"
+    },
+    {
+        "city": "Clackamas",
+        "number_of_businesses": "21"
+    },
+    {
+        "city": "Waltham",
+        "number_of_businesses": "21"
+    },
+    {
+        "city": "Lake Mary",
+        "number_of_businesses": "20"
+    },
+    {
+        "city": "Hilliard",
+        "number_of_businesses": "20"
+    },
+    {
+        "city": "Beverly",
+        "number_of_businesses": "20"
+    },
+    {
+        "city": "Danvers",
+        "number_of_businesses": "20"
+    },
+    {
+        "city": "Westerville",
+        "number_of_businesses": "20"
+    },
+    {
+        "city": "Woburn",
+        "number_of_businesses": "19"
+    },
+    {
+        "city": "Grove City",
+        "number_of_businesses": "18"
+    },
+    {
+        "city": "Altamonte Springs",
+        "number_of_businesses": "18"
+    },
+    {
+        "city": "Arlington",
+        "number_of_businesses": "18"
+    },
+    {
+        "city": "Smyrna",
+        "number_of_businesses": "18"
+    },
+    {
+        "city": "Happy Valley",
+        "number_of_businesses": "17"
+    },
+    {
+        "city": "Watertown",
+        "number_of_businesses": "17"
+    },
+    {
+        "city": "Ocoee",
+        "number_of_businesses": "17"
+    },
+    {
+        "city": "Titusville",
+        "number_of_businesses": "17"
+    },
+    {
+        "city": "Longwood",
+        "number_of_businesses": "17"
+    },
+    {
+        "city": "Sandy Springs",
+        "number_of_businesses": "17"
+    },
+    {
+        "city": "Weymouth",
+        "number_of_businesses": "17"
+    },
+    {
+        "city": "East Boston",
+        "number_of_businesses": "16"
+    },
+    {
+        "city": "Belmont",
+        "number_of_businesses": "16"
+    },
+    {
+        "city": "Tucker",
+        "number_of_businesses": "16"
+    },
+    {
+        "city": "Lake Buena Vista",
+        "number_of_businesses": "16"
+    },
+    {
+        "city": "Norwood",
+        "number_of_businesses": "16"
+    },
+    {
+        "city": "Oregon City",
+        "number_of_businesses": "16"
+    },
+    {
+        "city": "Dedham",
+        "number_of_businesses": "15"
+    },
+    {
+        "city": "Davenport",
+        "number_of_businesses": "15"
+    },
+    {
+        "city": "Wellesley",
+        "number_of_businesses": "15"
+    },
+    {
+        "city": "Cocoa",
+        "number_of_businesses": "15"
+    },
+    {
+        "city": "Revere",
+        "number_of_businesses": "15"
+    },
+    {
+        "city": "Louisville",
+        "number_of_businesses": "15"
+    },
+    {
+        "city": "Gahanna",
+        "number_of_businesses": "14"
+    },
+    {
+        "city": "Saugus",
+        "number_of_businesses": "13"
+    },
+    {
+        "city": "Marietta",
+        "number_of_businesses": "13"
+    },
+    {
+        "city": "Reading",
+        "number_of_businesses": "13"
+    },
+    {
+        "city": "Lexington",
+        "number_of_businesses": "13"
+    },
+    {
+        "city": "Dunwoody",
+        "number_of_businesses": "13"
+    },
+    {
+        "city": "Needham",
+        "number_of_businesses": "13"
+    },
+    {
+        "city": "Chamblee",
+        "number_of_businesses": "12"
+    },
+    {
+        "city": "Wakefield",
+        "number_of_businesses": "12"
+    },
+    {
+        "city": "Chelsea",
+        "number_of_businesses": "12"
+    },
+    {
+        "city": "Chestnut Hill",
+        "number_of_businesses": "12"
+    },
+    {
+        "city": "Casselberry",
+        "number_of_businesses": "12"
+    },
+    {
+        "city": "Concord",
+        "number_of_businesses": "11"
+    },
+    {
+        "city": "Hingham",
+        "number_of_businesses": "11"
+    },
+    {
+        "city": "West Roxbury",
+        "number_of_businesses": "11"
+    },
+    {
+        "city": "Canton",
+        "number_of_businesses": "11"
+    },
+    {
+        "city": "Everett",
+        "number_of_businesses": "11"
+    },
+    {
+        "city": "Tualatin",
+        "number_of_businesses": "11"
+    },
+    {
+        "city": "Apopka",
+        "number_of_businesses": "11"
+    },
+    {
+        "city": "Winchester",
+        "number_of_businesses": "11"
+    },
+    {
+        "city": "Powell",
+        "number_of_businesses": "10"
+    },
+    {
+        "city": "Wilmington",
+        "number_of_businesses": "10"
+    },
+    {
+        "city": "Charlestown",
+        "number_of_businesses": "10"
+    },
+    {
+        "city": "Windermere",
+        "number_of_businesses": "10"
+    },
+    {
+        "city": "Deltona",
+        "number_of_businesses": "10"
+    },
+    {
+        "city": "Lakeway",
+        "number_of_businesses": "9"
+    },
+    {
+        "city": "Middleton",
+        "number_of_businesses": "9"
+    },
+    {
+        "city": "Randolph",
+        "number_of_businesses": "9"
+    },
+    {
+        "city": "Melrose",
+        "number_of_businesses": "9"
+    },
+    {
+        "city": "Marblehead",
+        "number_of_businesses": "9"
+    },
+    {
+        "city": "Upper Arlington",
+        "number_of_businesses": "9"
+    },
+    {
+        "city": "Aloha",
+        "number_of_businesses": "9"
+    },
+    {
+        "city": "Bee Cave",
+        "number_of_businesses": "9"
+    },
+    {
+        "city": "Canal Winchester",
+        "number_of_businesses": "9"
+    },
+    {
+        "city": "Dripping Springs",
+        "number_of_businesses": "9"
+    },
+    {
+        "city": "Reynoldsburg",
+        "number_of_businesses": "8"
+    },
+    {
+        "city": "Billerica",
+        "number_of_businesses": "8"
+    },
+    {
+        "city": "Buda",
+        "number_of_businesses": "8"
+    },
+    {
+        "city": "Westwood",
+        "number_of_businesses": "8"
+    },
+    {
+        "city": "Pickerington",
+        "number_of_businesses": "8"
+    },
+    {
+        "city": "Roslindale",
+        "number_of_businesses": "8"
+    },
+    {
+        "city": "Worthington",
+        "number_of_businesses": "8"
+    },
+    {
+        "city": "Stoneham",
+        "number_of_businesses": "8"
+    },
+    {
+        "city": "Roxbury",
+        "number_of_businesses": "8"
+    },
+    {
+        "city": "Lewis Center",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "Hillsboro",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "Winthrop",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "Bedford",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "Saint Cloud",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "Milton",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "Delaware",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "Stoughton",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "Celebration",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "North Reading",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "Swampscott",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "College Park",
+        "number_of_businesses": "7"
+    },
+    {
+        "city": "Mount Dora",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "Orange City",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "Oak Grove",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "East Point",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "New Albany",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "Pflugerville",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "Winter Springs",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "Kyle",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "Gladstone",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "South Boston",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "West Linn",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "Cohasset",
+        "number_of_businesses": "6"
+    },
+    {
+        "city": "North Billerica",
+        "number_of_businesses": "5"
+    },
+    {
+        "city": "Newton Highlands",
+        "number_of_businesses": "5"
+    },
+    {
+        "city": "Bexley",
+        "number_of_businesses": "5"
+    },
+    {
+        "city": "Maitland",
+        "number_of_businesses": "5"
+    },
+    {
+        "city": "Pataskala",
+        "number_of_businesses": "5"
+    },
+    {
+        "city": "Sunbury",
+        "number_of_businesses": "5"
+    },
+    {
+        "city": "Lafayette",
+        "number_of_businesses": "5"
+    },
+    {
+        "city": "Merritt Island",
+        "number_of_businesses": "5"
+    },
+    {
+        "city": "Niwot",
+        "number_of_businesses": "4"
+    },
+    {
+        "city": "Superior",
+        "number_of_businesses": "4"
+    },
+    {
+        "city": "Lynnfield",
+        "number_of_businesses": "4"
+    },
+    {
+        "city": "Brockton",
+        "number_of_businesses": "4"
+    },
+    {
+        "city": "Hapeville",
+        "number_of_businesses": "4"
+    },
+    {
+        "city": "Damascus",
+        "number_of_businesses": "4"
+    },
+    {
+        "city": "Manor",
+        "number_of_businesses": "4"
+    },
+    {
+        "city": "Hull",
+        "number_of_businesses": "4"
+    },
+    {
+        "city": "Debary",
+        "number_of_businesses": "4"
+    },
+    {
+        "city": "Tewksbury",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Holbrook",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Wayland",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Lake City",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Plain City",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "West Lake Hills",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Mableton",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Camas",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Hyde Park",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "North Quincy",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "St. Cloud",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Norwell",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Newtonville",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Fern Park",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Avondale Estates",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Avon",
+        "number_of_businesses": "3"
+    },
+    {
+        "city": "Groveport",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Sunset Valley",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Sudbury",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Roxbury Crossing",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Walpole",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "DeBary",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "South Bloomfield",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Gresham",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Grandview Heights",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Newton Centre",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Forest Park",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Framingham",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Galena",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Newton Center",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Johnstown",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "West Concord",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Poinciana",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Alafaya",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "London",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Auburndale",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "North Weymouth",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Bay Lake",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Mims",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Belle Isle",
+        "number_of_businesses": "2"
+    },
+    {
+        "city": "Clarkston",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Del Valle",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Dover",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Doctor Phillips",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Winter park",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "BEAVERTON",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Brookhaven",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Clintonville",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Buena Ventura Lakes",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Carlisle",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Waban",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "West Newton",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Champions Gate",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "West Jefferson",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "East Walpole",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Championsgate",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Galloway",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Ellenwood",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "AUSTIN",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Needham Heights",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Mt Dora",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Morrow",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "North Decatur",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Montverde",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Northlake",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Mission Hill",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Norwood Center",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Obetz",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Mid-Cambridge",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Medfield",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Marble Cliff",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "PORTLAND",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Lockhart",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Erie",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Lithopolis",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Port St John",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Lincoln",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Lago Vista",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Kissimee",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Rockland",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Rockport",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Hapevile",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Golden",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Scottdale",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "Gainesville",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "South Brookline",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "South Weymouth",
+        "number_of_businesses": "1"
+    },
+    {
+        "city": "ATLANTA",
+        "number_of_businesses": "1"
+    }
+]
