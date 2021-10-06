@@ -13,5 +13,5 @@ An synopsis of the retail coffee industry's popularity in the United States.
 
  Yelp provided datasets for only seven cities: Portland, OR; Boulder, CO; Austin, TX; Orlando, FL, Columbus, OH; Atlanta, GA; and Boston, MA.  All of our datasets were cleaned using Python, some were converted into the following formats: Excel, CSV, JSON, and geoJSON.
 
- All of our codes were written in all or some of the following languages: Python, Javascript, HTML, and/or Javascript.  In our project we incorporated Flask, Javascript libraries: APEXCHARTS, Leaflet, CanvasJS, and ChartsJS.
+ All of our codes were written in all or some of the following languages: **Python, **Javascript**, **HTML**, and/or **Javascript**.  In our project we incorporated **Flask**, Javascript libraries: **APEXCHARTS**, **Leaflet**, **CanvasJS**, and **ChartsJS**.
 
