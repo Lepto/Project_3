@@ -25,6 +25,6 @@ An synopsis of the retail coffee industry's popularity in the United States.
 After an injection of caffine into our system, each team member was able to reduce their respective dataset and create their visualization portion.
 
 ## Conclusion
- Overall, the dataset showed the popularity of our coffee shops in each of the respective states we observed.  Review submitted went as high as 7000 for one coffee shop and to as low as 0 reviews.  Some of the reviews from the Yelp.com dataset showed how engaging and serious they think about coffee.  In each of the metropolitan areas surveyed, there were at least 300 coffee shops to serve a population of less than 1,000,000 people.  The retail coffee business is doing well (except during the COVID pandemic of 2020), and its popularity is steadily growing over the years, making it a viable enterprise for the future.
+ Overall, the dataset showed the popularity of our coffee shops in each of the respective states we observed.  Reviews submitted on Yelp.com went as high as 7000 for one coffee shop and to as low as 0 reviews.  Some of the reviews from the Yelp.com dataset showed how engaging and serious people think about coffee.  In each of the metropolitan areas surveyed, there were at least 300 coffee shops to serve a population of less than 1,000,000 people.  The retail coffee business is doing well (except during the COVID pandemic of 2020), and its popularity is steadily growing over the years, making it a viable enterprise for the future.
 
 
