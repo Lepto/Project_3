@@ -20,7 +20,7 @@ An synopsis of the retail coffee industry's popularity in the United States.
   1) The initial data size was over serveral gigabytes large.  Not feasible to be worked on locally
   2) Many of the data points were cryptic in nature (some were in hexidecimal) that could not be interpreted (e.g. USER ID and BUSINESS ID)
   3) Too many duplicate data points
-  4) Incomplete dataset - data only covered seven state and one major metropolitan area of that state.
+  4) Incomplete dataset - data only covered seven states and one major metropolitan area of that state.
 
 After an injection of caffine into our system, each team member was able to reduce their respective dataset and create their visualization portion.
 
