@@ -15,7 +15,7 @@ An synopsis of the retail coffee industry's popularity in the United States.
 
  All of our codes were written in all or some of the following languages: **Python**, **Javascript**, **HTML**, and/or **Javascript**.  In our project we incorporated **Flask**, Javascript libraries: **APEXCHARTS**, **Leaflet**, **CanvasJS**, and **ChartsJS**.
  
- ## Challenges: What the Frappuccino??!!
+ ## Challenges: What the Frapp??!!
  Our group experienced challenges in cleaning the dataset from Yelp.com.  The json dataset was large and couldn't not be efficiently stored, processed and reduced locally.  The decision was made to store our data on AWS S3, where it was cleaned using Athena,  and reduced to a size that was easier to manage and can be download locally.  Along the process, we discovered the following problems:
   1) The initial data size was over serveral gigabytes large.  Not feasible to be worked on locally
   2) Many of the data points were cryptic in nature (some were in hexidecimal) that could not be interpreted (e.g. USER ID and BUSINESS ID)
