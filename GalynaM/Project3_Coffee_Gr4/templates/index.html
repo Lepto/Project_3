@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{title}}</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin="" />
+
+  <!-- Bootstrap css -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+</head>
+
+  <body>
+
+    <div class="container-fluid px-md-10">
+      <div class="row single-post px-md-10 mt-1 no-gutters justify-content-center text-center rounded" >
+        <div class = "col-md-1"></div>
+        <div class="col-md-1" style = "background-color: rgb(189, 177, 162);">
+          <img src = "static/assets/images/coffee_cup.jpg" class="image-wrapper float-center img-fluid" style = "max-width:100%">
+        </div>
+        <div class="col-md-6 d-flex justify-content-left" style = "background-color: rgb(189, 177, 162);">
+          <h1 style = "position:absolute; bottom:0; right:1;">{{title}}</h1>
+        </div>
+        <div class="col-md-2 d-flex flex-row-reverse" style = "background-color:rgb(189, 177, 162); ">
+          <div class="p-2">
+            <img src = "static/assets/images/yelp_icon.jpeg" style = "width:40px">
+          </div>
+          <div class="p-2">
+            <h5 style = "position:absolute; bottom:0; right:0;">Based on Yelp Data Set </h5>
+          </div>
+        </div>
+
+
+        <div class = "col-md-1"></div>
+      </div>
+      
+      <div class = "container-fluid">     
+        <div class = "row px-md-2">
+          <div class = "col-md-1 "></div>
+          <div class = "col-md-8 ">
+            <canvas id="progress" width="500" height="200"></canvas>
+          </div>
+
+<!-- Links to project htmls -->
+          <div class = "col-md-3">
+            <div class = 'row py-md-4'>
+              <div class="card" style="width: 12rem;">
+                <div class="card-header">
+                  <h3>More Analysis</h3>
+                </div>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">
+                    <a href="/Jindex"> 
+                      <img src = "static/assets/images/loc_coffee.png" class = "img-fluid" style = "width:35px">
+                      Coffee locations </a>
+                  </li>
+                  <li class="list-group-item">
+                    <a href="/Ratings&Reviews"> 
+                      <img src = "static/assets/images/reviews.png" class = "img-fluid" style = "width:35px">
+                      Popularity & Top Business </a>
+                  </li>
+                  <li class="list-group-item">
+                    <a href="/Mindex"> 
+                      <img src = "static/assets/images/star.png" class = "img-fluid" style = "width:40px">
+                      Star Rating by State </a>
+                  </li>
+                  <!-- <li class="list-group-item">
+                    Users
+                  </li> -->
+                </ul>
+              </div>
+              
+            </div>                              
+        </div>
+
+      </div>
+
+      <div class = "container-fluid">
+        <div class="row py-md-2 px-md-2">
+          <div class = "col-md-1"></div>
+          <div class = "col-md-2 ">
+              <h4>Select Category
+                <select class = "form-select form-select-sm" style = "background-color: rgb(189, 177, 162); font-size: 14px; outline: none;" id="selCategory" ></select>
+              </h4>
+          </div>
+          <div class = "col-md-4 "></div>
+          <div class = "col-md-2 ">
+            <h4>Select Attribute
+              <select class = "form-select form-select-sm" style = "background-color: rgb(189, 177, 162); font-size: 14px; outline: none;" id="selAttribute" ></select>
+            </h4>
+        </div>
+        </div>
+      </div>
+
+      <div class = "container-fluid">
+        
+          <div class = "row">
+            <div class = "col-md-1"></div>
+            <div class = "col-md-6 " style="height: 100%" id = "bar"></div>
+            <div class = "col-md-4 " id = "spline" style="width: 90%; height: 100%;"></div>
+            <div class = "col-md-1"></div>
+          </div>      
+      </div>
+    </div>
+  
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script type="text/javascript" src="static/js/plot.js"></script>
+    
+  </body>
+  
+</html>

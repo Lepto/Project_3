@@ -1,0 +1,25 @@
+.hero-image {
+  background-image: url("ratings.png"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.nvp{
+  background-color: #3c5fac;
+    border-color: #080808;
+    
+}
+
+.nvm{
+  background-color: rgb(211, 144, 196);
+    border-color: #a750a7;
+    
+}
+
+.textcolor {
+  color: #FFFFFF;
+  text-decoration: none;
+}
