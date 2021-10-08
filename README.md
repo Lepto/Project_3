@@ -1,5 +1,8 @@
 # Data Viz Project 3
 
+## Running on caffine: Executing the app
+To the grader: To execute the app, go to GalynaM directory in this repository and run app.py
+Galyna's file will have all the necessary files to execute the project.
 
 ## Team Members: The Baristas
 Galyna Malynska, Priya Singh, Banke Ogunjumo, Michael Liu, Jasper Chou
